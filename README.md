@@ -1,10 +1,10 @@
-<!-- ✨ Granth's GitHub Profile README ✨ -->
+<!-- ✨ Granth Senjaliya's GitHub Profile README ✨ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:6d28d9&text=Hey%20There,%20I'm%20Granth%20👋&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20AI%20Explorer%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:6d28d9&text=Hey%20There,%20I'm%20Granth%20👋&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=CS%20Student%20@%20CHARUSAT%20•%20Learning%20by%20Building&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+full-stack+projects;Currently+exploring+AI+%2B+Cloud;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Student+%40+CHARUSAT;Learning+one+project+at+a+time;Let's+build+something+together+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -12,35 +12,12 @@
 
 ## 🔥 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 💡 Passionate about building **futuristic, scalable web apps**
-- 🌱 Currently exploring **AI, Cloud & Automation**
-- 🧠 Leveling up in **Next.js, FastAPI & Kubernetes**
-- 🤝 Open to collaborating on **open-source & AI-powered tools**
-- ⚡ Fun fact: if I can automate it, I *will* automate it 🤖
-- 📫 Reach me at **YOUR_EMAIL@gmail.com**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💻 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,django,flask,fastapi,docker,git,github,html,css,tailwind,mongodb,postgresql,linux,vscode,figma&perline=10&theme=dark" />
-
-</div>
+- 🎓 Currently studying at **Charotar University of Science and Technology (CHARUSAT)**
+- 🌱 Learning to code and building my skills one project at a time
+- 🛠️ Working on picking up new tools and languages as I go
+- 🚀 Getting ready to ship my **first real project** soon — stay tuned!
+- 🤝 Open to learning from others and collaborating on beginner-friendly projects
+- 📫 Reach me at **granthsenjaliya881@gmail.com**
 
 <br>
 
@@ -50,22 +27,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Granth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Granth&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Granth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Granth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -95,16 +56,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:granthsenjaliya881@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
